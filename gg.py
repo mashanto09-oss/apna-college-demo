@@ -6,4 +6,4 @@ while i<=100:
     print(i)
     i+=1"""
 for i in range(3,40,3):
-    print(i+1)
+    print(i)
